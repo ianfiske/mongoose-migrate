@@ -7,7 +7,7 @@
   , "repository": "git://github.com/buunguyen/mongoose-migrate"
   , "bin": { "mongoose-migrate-2": "./bin/migrate" }
   , "dependencies" : {
-      "mongoose": "^4.2.0"
+      "mongoose": "^4.8.3"
     }
   , "main": "index"
   , "engines": { "node": ">= 0.8.x" }
