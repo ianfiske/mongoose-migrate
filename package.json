@@ -1,6 +1,6 @@
 {
   "name": "mongoose-migrate-2",
-  "version": "0.2.4",
+  "version": "0.2.10",
   "description": "Migration framework for MongoDB",
   "keywords": [
     "migrate",
@@ -14,8 +14,7 @@
     "mongoose-migrate-2": "./bin/migrate"
   },
   "dependencies": {
-    "mongoose": "^4.9.8",
-    "mongoose-autoincrement": "^1.0.0"
+    "mongoose": "^4.9.8"
   },
   "main": "index",
   "engines": {
